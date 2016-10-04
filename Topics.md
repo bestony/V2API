@@ -15,7 +15,7 @@
 ## 显示主题内容
 显示主题内容
 ```
-/api/topics/show.json
+/api/topics/show.json?id=1
 ```
 
 ## 显示用户的主题
